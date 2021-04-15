@@ -1,0 +1,12 @@
+db:
+ myvalue: Hi Me in Test
+ host: localhost
+ port: 2222
+ connection: "newone"
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include:
+        - "*"
