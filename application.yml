@@ -1,6 +1,6 @@
 my.value: Hi Pisdobol
 app:
-   fname: Vaska
+   fname: Vaska Urod
    lname: Dolboebov
    returnit: ${my.value} ${app.fname} ${app.lname}  
    values: One,Many,Nothing
